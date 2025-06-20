@@ -1,0 +1,34 @@
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables
+.env
+.env.local
+.env.*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore build output (React/Vite/Next.js/etc.)
+build/
+dist/
+out/
+
+# Optional: IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Optional: Coverage results
+coverage/
